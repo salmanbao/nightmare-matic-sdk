@@ -19,9 +19,9 @@ export enum Rounding {
   ROUND_UP,
 }
 
-export const FACTORY_ADDRESS = '0xB08C38cEEadF365860FaA1714540ab94DDBAB26F' //TODO Need to change this. This address should be same for both testnet and mainnet
+export const FACTORY_ADDRESS = '0xba0addC992Ce160e0528b076d2a009041E353B59' //TODO Need to change this. This address should be same for both testnet and mainnet
 
-export const INIT_CODE_HASH = '0xaec01b6198f802dec36599845e39272552e3424d1aab4e46b92c0da1ce433e3a'
+export const INIT_CODE_HASH = '0x8ff162b728d089d3a7eb72b736f8c536883e0160a42cd6463cfe05cda377a4f1'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
